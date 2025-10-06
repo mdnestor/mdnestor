@@ -1,5 +1,5 @@
 
-Hello, I am **Michael Nestor**. Here are some projects I have worked on:
+Hello. Here are some projects I have worked on:
 
 ### Formalization
 
