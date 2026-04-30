@@ -1,5 +1,8 @@
 
-Hello. Here are some projects I have worked on:
+Hello.
+I am a graduate student in applied mathematics.
+
+Here are some projects I have worked on:
 
 ### Formalization
 
